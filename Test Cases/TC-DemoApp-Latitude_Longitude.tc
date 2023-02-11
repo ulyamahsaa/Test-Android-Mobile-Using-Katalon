@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure to get Latitude and Logitude value on apps and input it to textbox</description>
+   <name>TC-DemoApp-Latitude_Longitude</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8d17dd9-ef3d-499e-adcc-fad36c6b13e4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7023941-7a1a-46e1-a3bc-46de06a5e479</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6161d17-df5b-4ba2-8093-4dd68b8b7316</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7023941-7a1a-46e1-a3bc-46de06a5e479</id>
+      <masked>false</masked>
+      <name>latitude</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6161d17-df5b-4ba2-8093-4dd68b8b7316</id>
+      <masked>false</masked>
+      <name>longitude</name>
+   </variable>
+</TestCaseEntity>
